@@ -11,6 +11,7 @@
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
                         <PropertyPath>CustomerId</PropertyPath>
+                        <PropertyPath>AgencyId</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
