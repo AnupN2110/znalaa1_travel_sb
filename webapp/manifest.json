@@ -136,6 +136,31 @@
             },
             "tableSettings": {
               "type": "ResponsiveTable"
+            },
+            "quickVariantSelection": {
+              "showCounts": true,
+              "variants": {
+                "0": {
+                  "key": "tab0",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#Open"
+                },
+                "1": {
+                  "key": "tab1",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#Rejected"
+                },
+                "2": {
+                  "key": "tab2",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#All"
+                },
+                "3": {
+                  "key": "tab3",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#New"
+                },
+                "4": {
+                  "key": "tab4",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#Accepted"
+                }                                 
+              }
             }
           }
         },
