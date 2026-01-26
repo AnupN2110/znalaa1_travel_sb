@@ -137,7 +137,7 @@
             "tableSettings": {
               "type": "ResponsiveTable"
             },
-            "quickVariantSelection": {
+            "quickVariantSelection1": {
               "showCounts": true,
               "variants": {
                 "0": {
@@ -159,7 +159,28 @@
                 "4": {
                   "key": "tab4",
                   "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#Accepted"
-                }                                 
+                }
+              }
+            },
+            "quickVariantSelection": {
+              "showCounts": true,
+              "variants": {
+                "0": {
+                  "key": "tab0",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionPresentationVariant#SPV_OPEN"
+                },
+                "1": {
+                  "key": "tab1",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionPresentationVariant#SPV_ALL"
+                },
+                "2": {
+                  "key": "tab2",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionPresentationVariant#SPV_ACP"
+                },
+                "3": {
+                  "key": "tab3",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionPresentationVariant#SPV_REJ"
+                }
               }
             }
           }
